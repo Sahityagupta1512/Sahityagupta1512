@@ -1,7 +1,5 @@
 👋 Hi, I'm Sahitya Gupta!
-I'm a data enthusiast exploring the data engineering world! Currently, I’m a Data Engineering Intern at Agilityx.ai, where I build and optimize data pipelines. My journey includes:
-
-🌟 About Me
+I'm a data enthusiast exploring the data engineering world! Currently, I’m a Data Engineering Intern at Agilityx.ai, where I build and optimize data management. My journey includes:
 Data Engineering Intern @ IdeaForge Technology: Improved data accuracy and processing efficiency.
 Data Analyst Intern @ Afame Technologies: Delivered insights through data cleaning and exploratory analysis.
 
@@ -14,6 +12,7 @@ Focus: Data pipelines, cloud storage, and data visualization
 Aspiring to make an impact in Data Science, AI, and Machine Learning while constantly learning and growing.
 
 Thanks for visiting—let’s connect @guptasahitya12471@gmail.com and collaborate! 🚀
+You can check my linkedIn profile for more www.linkedin.com/in/sahitya-satyendra-gupta-9657311ab
 
 
 
